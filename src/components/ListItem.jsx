@@ -3,7 +3,7 @@ var ListItem = React.createClass({
 
   render: function() {
     return (
-      <li>
+      <li>grr
         <h4>{this.props.ingredient}</h4>
       </li>
     )
